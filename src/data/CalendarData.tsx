@@ -213,70 +213,70 @@ export const calendarData: {
       date: verifyCalendarDate("2024-01-04", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Introduction and Overview",
-      slides: "https://canvas.uw.edu/files/114335438/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-01-11", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Design Diamond",
-      slides: "https://canvas.uw.edu/files/114707434/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-01-18", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Design of Everyday Things",
-      slides: "https://canvas.uw.edu/files/114960023/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-01-23", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Task Analysis",
-      slides: "https://canvas.uw.edu/files/115092729/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-01-25", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Models and Human Performance",
-      slides: "https://canvas.uw.edu/files/115264041/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-01-30", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Storyboarding, Paper Prototyping, and Testing",
-      slides: "https://canvas.uw.edu/files/115505605/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-02-06", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Effective Presentations",
-      slides: "https://canvas.uw.edu/files/115846965/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-02-15", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Patterns and Interface Implementation",
-      slides: "https://canvas.uw.edu/files/116098646/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-02-22", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Designing for Diverse Needs",
-      slides: "https://canvas.uw.edu/files/116629501/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "lecture",
       date: verifyCalendarDate("2024-02-27", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "History",
-      slides: "https://canvas.uw.edu/files/116782784/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
   ],
 
@@ -286,28 +286,28 @@ export const calendarData: {
       date: verifyCalendarDate("2024-01-09", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Introduction to Critique",
-      slides: "https://canvas.uw.edu/files/114608770/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "studio",
       date: verifyCalendarDate("2024-01-16", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Design Research",
-      slides: "https://canvas.uw.edu/files/114855192/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "studio",
       date: verifyCalendarDate("2024-02-01", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Studio",
-      slides: "https://canvas.uw.edu/files/115610379/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "studio",
       date: verifyCalendarDate("2024-02-13", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Inspection",
-      slides: "https://canvas.uw.edu/files/116098443/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "studio",
@@ -329,7 +329,7 @@ export const calendarData: {
       date: verifyCalendarDate("2024-03-05", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       title: "Studio",
-      slides: "https://canvas.uw.edu/files/117252175/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "studio",
@@ -357,7 +357,7 @@ export const calendarData: {
       title: "Exam Q&A",
       date: verifyCalendarDate("2024-02-19", "Mon"),
       timeAndLocation: TIME_AND_LOCATION_EXAM_QA,
-      slides: "https://canvas.uw.edu/files/116100598/",
+      slides: "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     {
       type: "event",
@@ -432,7 +432,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938946",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     //
     // Assignment 1
@@ -445,7 +445,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938947",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment1b: {
       type: "assignment",
@@ -455,7 +455,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938948",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment1b_rev: {
       type: "assignment",
@@ -465,7 +465,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938949",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment1c: {
       type: "assignment",
@@ -475,7 +475,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938950",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     //
     // Assignment 2
@@ -496,7 +496,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938951",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2c: {
       type: "assignment",
@@ -506,7 +506,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938952",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2d: {
       type: "assignment",
@@ -516,7 +516,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938953",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2e: {
       type: "assignment",
@@ -526,7 +526,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938954",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2f: {
       type: "assignment",
@@ -536,7 +536,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938956",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2f_rev: {
       type: "assignment",
@@ -546,7 +546,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938955",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2g: {
       type: "assignment",
@@ -556,7 +556,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938957",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment2p: {
       type: "assignment",
@@ -566,7 +566,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938958",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     //
     // Assignment 3
@@ -579,7 +579,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938959",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment3b: {
       type: "assignment",
@@ -597,7 +597,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938960",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment3d: {
       type: "assignment",
@@ -607,7 +607,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938961",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment3e: {
       type: "assignment",
@@ -617,7 +617,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938962",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment3p: {
       type: "assignment",
@@ -627,7 +627,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938963",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     //
     // Assignment 4
@@ -640,7 +640,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938964",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment4web: {
       type: "assignment",
@@ -650,7 +650,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938966",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment4poster_final: {
       type: "assignment",
@@ -660,7 +660,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "3:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938965",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment4web_final: {
       type: "assignment",
@@ -670,7 +670,7 @@ export const calendarData: {
       submission: "canvas",
       submitCanvasTime: "8:00pm",
       submitCanvasLink:
-        "https://canvas.uw.edu/courses/1695984/assignments/8938967",
+        "https://canvas.phenikaa-uni.edu.vn/courses/11842",
     },
     assignment4poster_session: {
       type: "assignment",

@@ -31,61 +31,9 @@ export const ProjectMilestoneSamples: React.FunctionComponent<
         and carefully consider project requirements and feedback from the course
         staff in the context of your own work.
       </p>
-      {["assignment1b"].includes(props.milestone) && (
-        <Alert severity="warning">
-          Some samples are from a significantly revised prior milestone.
+      <Alert severity="warning">
+          See samples from Canvas for each milestone.
         </Alert>
-      )}
-      {(() => {
-        const projectSamplesStore = getProjectSamplesStore();
-
-        return ProjectSamplesProjectKeyValues.map((sampleKeyCurrent) => {
-          const sampleCurrent = projectSamplesStore.samples[sampleKeyCurrent];
-
-          const renderMilestone: ProjectSamplesMilestoneKey = (() => {
-            if (
-              props.milestone == "assignment1b" &&
-              [
-                "bookwurm",
-                "dash",
-                "jasper",
-                "wishingwell", // 17wi
-                "backtrack",
-                "hermes",
-                "pilltender",
-                "simpark", // 17au
-                "laundr",
-                "note",
-                "pawsitive",
-                "seek", // 19wi
-              ].includes(sampleKeyCurrent)
-            ) {
-              return "assignment1c";
-            }
-
-            return props.milestone;
-          })();
-
-          return (
-            // Ensure we have a sample for this project
-            !!sampleCurrent.sampleCanvasLinks?.[renderMilestone] && (
-              <React.Fragment key={sampleKeyCurrent}>
-                <p>
-                  <AppLink
-                    href={sampleCurrent.sampleCanvasLinks[renderMilestone]}
-                  >
-                    {"Sample " + renderMilestone}
-                  </AppLink>
-                  {" from "}
-                  <AppLink href={sampleCurrent.link}>
-                    {sampleCurrent.name}
-                  </AppLink>
-                </p>
-              </React.Fragment>
-            )
-          );
-        });
-      })()}
     </React.Fragment>
   );
 };
