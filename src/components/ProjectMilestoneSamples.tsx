@@ -2,7 +2,6 @@ import * as React from "react";
 
 import { AppLink } from "@/components/links/AppLink";
 import {
-  getProjectSamplesStore,
   ProjectSamplesProjectKeyValues,
 } from "@/data/ProjectSamplesData";
 import {

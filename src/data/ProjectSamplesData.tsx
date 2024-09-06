@@ -44,13 +44,3 @@ export const ProjectSamplesMilestoneKeyValues = [
   "assignment3p",
   "assignment4poster",
 ] as const;
-
-/**
- * The actual ProjectSamplesStore.
- */
-const PROJECT_SAMPLE_STORE: ProjectSamplesStore = {
-};
-
-export const getProjectSamplesStore: () => ProjectSamplesStore = () => {
-  return PROJECT_SAMPLE_STORE;
-};
