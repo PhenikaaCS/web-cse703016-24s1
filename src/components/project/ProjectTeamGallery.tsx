@@ -60,6 +60,7 @@ export const ProjectTeamGallery: FunctionComponent<ProjectTeamGalleryProps> = (
                     basePath={Paths.basePath}
                     src={teamMemberProps.photo}
                     width="125"
+                    height="150"
                     alt={
                       teamMemberProps.alt
                         ? teamMemberProps.alt

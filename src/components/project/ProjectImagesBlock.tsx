@@ -67,15 +67,8 @@ export const ProjectImagesBlock: FunctionComponent<ProjectImagesBlockProps> = (
                     <Image
                       basePath={Paths.basePath}
                       src={projectImage.src}
-                      style={{
-                        height: "auto",
-                        maxHeight:
-                          props.maxHeight === undefined
-                            ? "400px"
-                            : props.maxHeight,
-                        objectFit: "contain",
-                        maxWidth: "100%",
-                      }}
+                      height="150"
+                      width="150"
                       alt={projectImage.alt}
                     />
                   </Paper>
