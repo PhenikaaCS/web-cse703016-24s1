@@ -4,22 +4,7 @@ import { ProjectSamplesStore } from "@/types/ProjectSamplesStore";
  * A key for each sample project.
  */
 export const ProjectSamplesProjectKeyValues = [
-  "backtrack",
-  "bookwurm",
-  "clark",
-  "cupanion",
-  "dash",
-  "hermes",
-  "jasper",
-  "laundr",
-  "note",
-  "pawsitive",
-  "pilltender",
-  "seek",
-  "simpark",
-  "sprout",
-  "wastewizard",
-  "wishingwell",
+  "project1",
 ] as const;
 
 /**

@@ -15,20 +15,8 @@ export default function Page(): React.ReactElement {
         },
         [
           {
-            anchor: "AutoPilot",
-            href: "/projects/autopilot",
-          },
-          {
-            anchor: "BakeSmart",
-            href: "/projects/bakesmart",
-          },
-          {
-            anchor: "CookEase",
-            href: "/projects/cookease",
-          },
-          {
-            anchor: "Dapper Dany",
-            href: "/projects/dapperdany",
+            anchor: "Project 1",
+            href: "/projects/project1",
           },
         ],
       ]}
