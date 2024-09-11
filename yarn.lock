@@ -4893,7 +4893,6 @@ watchpack@^2.4.1:
     react-dom "18.x"
     rehype-slug "5.x"
     server-only "0.0.1"
-    web-cse440-24wi "file:../../../AppData/Local/Yarn/Cache/v6/npm-web-cse440-24wi-0.1.0-7855e292-b4df-4e3f-93cd-5ef78e5beb01-1725989991418/node_modules/web-cse440-24wi"
 
 webpack-sources@^3.2.3:
   version "3.2.3"
